@@ -1,4 +1,4 @@
 import os
 a = input('como vc se chama? ')
-system.os(clear)
+unix.os(clear)
 print(a)
